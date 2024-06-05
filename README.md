@@ -1,6 +1,6 @@
 # Neural Net-Based Preconditioners for PDE Solvers
 ### ECE 228, UC San Diego, Spring 2024
-### J. Sampayan, Oren Yang, Tony Guan
+### J. Sampayan, Tony Guan, Oren Yang
 ***
 **Motivation**: To use learning preconditioners of different neural network architectures to solve a linear ill-conditioned partial differential equations (PDE) that is then passed into a conjugate gradient (CG) solver, to be solved numerically. 
 
