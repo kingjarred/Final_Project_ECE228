@@ -14,8 +14,8 @@
 
 ### Contents
   * ***PDE_GNN.ipynb*** - Is the Graphics Neural Net (GNN) preconditioner file authored by **T. Guan**.
-  * ***PDE_RNN*** - Is the Recurring Neural Net (RNN) preconditioner file authored by **J. Sampayan**.
-  * ***PDE_CNN*** - Is the Convolutional Neural Net (CNN) preconditioner file authored by **O. Yang***
+  * ***PDE_RNN*** - Is the Recurring Neural Net (RNN) preconditioner folder authored by **J. Sampayan**.
+  * ***PDE_CNN*** - Is the Convolutional Neural Net (CNN) preconditioner folder authored by **O. Yang***
 
 ***
 
