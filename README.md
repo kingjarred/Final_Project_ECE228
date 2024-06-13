@@ -31,4 +31,5 @@
     Numpy
     Pandas
     Matplotlib
+    Torch Geometric
     
