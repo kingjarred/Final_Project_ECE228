@@ -15,6 +15,9 @@
 ### Contents
   * ***PDE_GNN.ipynb*** - Is the Graphics Neural Net (GNN) preconditioner file authored by **T. Guan**.
   * ***PDE_RNN*** - Is the Recurring Neural Net (RNN) preconditioner file authored by **J. Sampayan**.
+  * ***PDE_CNN*** - Is the Convolutional Neural Net (CNN) preconditioner file authored by **O. Yang***
+
+***
 
 ### Citations
 1. Li, Y., Chen, H., & Sun, L. (2023). Learning Preconditioners for Conjugate Gradient PDE Solvers. Proceedings of the 40th International Conference on Machine Learning. PMLR 202. Retrieved from [https://sites.google.com/view/neuralPCG](https://sites.google.com/view/neuralPCG).
