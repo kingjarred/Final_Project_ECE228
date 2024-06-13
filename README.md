@@ -7,8 +7,8 @@
 ***
 
 ### Contents
-  * ***PDE_GNN*** - Is the Graphics Neural Net (GNN) preconditioner folder authored by **T. Guan**.
   * ***PDE_RNN*** - Is the Recurring Neural Net (RNN) preconditioner folder authored by **J. Sampayan**.
+  * ***PDE_GNN*** - Is the Graphics Neural Net (GNN) preconditioner folder authored by **T. Guan**.
   * ***PDE_CNN*** - Is the Convolutional Neural Net (CNN) preconditioner folder authored by **O. Yang**.
 
 ***
